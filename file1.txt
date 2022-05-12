@@ -1,3 +1,9 @@
-Hii, am in file1.
-This is in branch1.
+<<<<<<< HEAD
+H
+This is in branch1
+hello
+.
+=======
+Hii am in file1.
+>>>>>>> master
 
